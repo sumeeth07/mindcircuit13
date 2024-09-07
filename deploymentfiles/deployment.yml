@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: sumith596/new123:xyz
+        image: sumith596/new123:
         ports:
         - containerPort: 8080
 
